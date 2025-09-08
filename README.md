@@ -1,4 +1,4 @@
-# SuperstoreSales
+# Global Superstore Sales
 
 Project Overview
 
