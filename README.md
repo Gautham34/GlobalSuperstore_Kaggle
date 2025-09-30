@@ -12,7 +12,7 @@ https://www.kaggle.com/datasets/fatihilhan/global-superstore-dataset
 **🛠️ Tools & Technologies**
 
 Environment: Anaconda (Python 3.x)
-Libraries: Pandas, NumPy, Matplotlib, Seaborn (and others if used, e.g., Scikit-learn, Plotly)
+Libraries: Pandas, NumPy, Matplotlib, Seaborn
 Notebook: Jupyter Notebook
 
 📈 Key Analysis
